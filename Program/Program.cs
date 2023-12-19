@@ -54,7 +54,7 @@
 
         private static void OutputResults(List<InfoCollector> collectors, List<InfoHandler> handlers, List<InfoCommand> commands)
         {
-            Console.WriteLine("№\t Time\t  Costs");
+            Console.WriteLine("№\tTime\t  Costs");
             
             foreach (var collector in collectors)
             {

@@ -17,7 +17,7 @@
 
         public void OutputResults()
         {
-            Console.WriteLine($"{Number}\t{Math.Round(Intensity * _handleTime / (1.0 / _handleTime - Intensity), 2)}\t   {Intensity * _costs}");
+            Console.WriteLine($"{Number}\t{Math.Abs(Math.Round(Intensity * _handleTime / (1.0 / _handleTime - Intensity), 2))}\t   {Intensity * _costs}");
         }
     }
 }

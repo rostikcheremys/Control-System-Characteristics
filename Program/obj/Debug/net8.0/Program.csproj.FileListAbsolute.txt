@@ -12,3 +12,4 @@ D:\Programming\C#\ControlSystemCharacteristics\Program\Program\obj\Debug\net8.0\
 D:\Programming\C#\ControlSystemCharacteristics\Program\Program\obj\Debug\net8.0\Program.pdb
 D:\Programming\C#\ControlSystemCharacteristics\Program\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 D:\Programming\C#\ControlSystemCharacteristics\Program\Program\obj\Debug\net8.0\ref\Program.dll
+D:\Programming\C#\ControlSystemCharacteristics\Program\Program\obj\Debug\net8.0\Program.sourcelink.json
